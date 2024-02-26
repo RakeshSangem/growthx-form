@@ -1,0 +1,598 @@
+[
+  {
+    "id": 1,
+    "name": "Accounting"
+  },
+  {
+    "id": 2,
+    "name": "Airlines/Aviation"
+  },
+  {
+    "id": 3,
+    "name": "Alternative Dispute Resolution"
+  },
+  {
+    "id": 4,
+    "name": "Alternative Medicine"
+  },
+  {
+    "id": 5,
+    "name": "Animation"
+  },
+  {
+    "id": 6,
+    "name": "Apparel & Fashion"
+  },
+  {
+    "id": 7,
+    "name": "Architecture & Planning"
+  },
+  {
+    "id": 8,
+    "name": "Arts and Crafts"
+  },
+  {
+    "id": 9,
+    "name": "Automotive"
+  },
+  {
+    "id": 10,
+    "name": "Aviation & Aerospace"
+  },
+  {
+    "id": 11,
+    "name": "Banking"
+  },
+  {
+    "id": 12,
+    "name": "Biotechnology"
+  },
+  {
+    "id": 13,
+    "name": "Broadcast Media"
+  },
+  {
+    "id": 14,
+    "name": "Building Materials"
+  },
+  {
+    "id": 15,
+    "name": "Business Supplies and Equipment"
+  },
+  {
+    "id": 16,
+    "name": "Capital Markets"
+  },
+  {
+    "id": 17,
+    "name": "Chemicals"
+  },
+  {
+    "id": 18,
+    "name": "Civic & Social Organization"
+  },
+  {
+    "id": 19,
+    "name": "Civil Engineering"
+  },
+  {
+    "id": 20,
+    "name": "Commercial Real Estate"
+  },
+  {
+    "id": 21,
+    "name": "Computer & Network Security"
+  },
+  {
+    "id": 22,
+    "name": "Computer Games"
+  },
+  {
+    "id": 23,
+    "name": "Computer Hardware"
+  },
+  {
+    "id": 24,
+    "name": "Computer Networking"
+  },
+  {
+    "id": 25,
+    "name": "Computer Software"
+  },
+  {
+    "id": 26,
+    "name": "Construction"
+  },
+  {
+    "id": 27,
+    "name": "Consumer Electronics"
+  },
+  {
+    "id": 28,
+    "name": "Crypto"
+  },
+  {
+    "id": 29,
+    "name": "Consumer Goods"
+  },
+  {
+    "id": 30,
+    "name": "Consumer Services"
+  },
+  {
+    "id": 31,
+    "name": "Cosmetics"
+  },
+  {
+    "id": 32,
+    "name": "Dairy"
+  },
+  {
+    "id": 33,
+    "name": "Defense & Space"
+  },
+  {
+    "id": 34,
+    "name": "Design"
+  },
+  {
+    "id": 35,
+    "name": "Edtech"
+  },
+  {
+    "id": 36,
+    "name": "Education Management"
+  },
+  {
+    "id": 37,
+    "name": "E-Learning"
+  },
+  {
+    "id": 38,
+    "name": "Electrical/Electronic Manufacturing"
+  },
+  {
+    "id": 39,
+    "name": "Entertainment"
+  },
+  {
+    "id": 40,
+    "name": "Environmental Services"
+  },
+  {
+    "id": 41,
+    "name": "Events Services"
+  },
+  {
+    "id": 42,
+    "name": "Executive Office"
+  },
+  {
+    "id": 43,
+    "name": "Facilities Services"
+  },
+  {
+    "id": 44,
+    "name": "Farming"
+  },
+  {
+    "id": 45,
+    "name": "Financial Services"
+  },
+  {
+    "id": 46,
+    "name": "Fine Art"
+  },
+  {
+    "id": 47,
+    "name": "Fishery"
+  },
+  {
+    "id": 48,
+    "name": "Food & Beverages"
+  },
+  {
+    "id": 49,
+    "name": "Food Production"
+  },
+  {
+    "id": 50,
+    "name": "Fund-Raising"
+  },
+  {
+    "id": 51,
+    "name": "Furniture"
+  },
+  {
+    "id": 52,
+    "name": "Gambling & Casinos"
+  },
+  {
+    "id": 53,
+    "name": "Glass, Ceramics & Concrete"
+  },
+  {
+    "id": 54,
+    "name": "Government Administration"
+  },
+  {
+    "id": 55,
+    "name": "Government Relations"
+  },
+  {
+    "id": 56,
+    "name": "Graphic Design"
+  },
+  {
+    "id": 57,
+    "name": "Health, Wellness and Fitness"
+  },
+  {
+    "id": 58,
+    "name": "Higher Education"
+  },
+  {
+    "id": 59,
+    "name": "Hospital & Health Care"
+  },
+  {
+    "id": 60,
+    "name": "Hospitality"
+  },
+  {
+    "id": 61,
+    "name": "Human Resources"
+  },
+  {
+    "id": 62,
+    "name": "Import and Export"
+  },
+  {
+    "id": 63,
+    "name": "Individual & Family Services"
+  },
+  {
+    "id": 64,
+    "name": "Industrial Automation"
+  },
+  {
+    "id": 65,
+    "name": "Information Services"
+  },
+  {
+    "id": 66,
+    "name": "Information Technology and Services"
+  },
+  {
+    "id": 67,
+    "name": "Insurance"
+  },
+  {
+    "id": 68,
+    "name": "International Affairs"
+  },
+  {
+    "id": 69,
+    "name": "International Trade and Development"
+  },
+  {
+    "id": 70,
+    "name": "Internet"
+  },
+  {
+    "id": 71,
+    "name": "Investment Banking"
+  },
+  {
+    "id": 72,
+    "name": "Investment Management"
+  },
+  {
+    "id": 73,
+    "name": "Judiciary"
+  },
+  {
+    "id": 74,
+    "name": "Law Enforcement"
+  },
+  {
+    "id": 75,
+    "name": "Law Practice"
+  },
+  {
+    "id": 76,
+    "name": "Legal Services"
+  },
+  {
+    "id": 77,
+    "name": "Legislative Office"
+  },
+  {
+    "id": 78,
+    "name": "Leisure, Travel & Tourism"
+  },
+  {
+    "id": 79,
+    "name": "Libraries"
+  },
+  {
+    "id": 80,
+    "name": "Logistics and Supply Chain"
+  },
+  {
+    "id": 81,
+    "name": "Luxury Goods & Jewelry"
+  },
+  {
+    "id": 82,
+    "name": "Machinery"
+  },
+  {
+    "id": 83,
+    "name": "Management Consulting"
+  },
+  {
+    "id": 84,
+    "name": "Maritime"
+  },
+  {
+    "id": 85,
+    "name": "Marketing and Advertising"
+  },
+  {
+    "id": 86,
+    "name": "Market Research"
+  },
+  {
+    "id": 87,
+    "name": "Mechanical or Industrial Engineering"
+  },
+  {
+    "id": 88,
+    "name": "Media Production"
+  },
+  {
+    "id": 89,
+    "name": "Medical Devices"
+  },
+  {
+    "id": 90,
+    "name": "Medical Practice"
+  },
+  {
+    "id": 91,
+    "name": "Mental Health Care"
+  },
+  {
+    "id": 92,
+    "name": "Military"
+  },
+  {
+    "id": 93,
+    "name": "Mining & Metals"
+  },
+  {
+    "id": 94,
+    "name": "Motion Pictures and Film"
+  },
+  {
+    "id": 95,
+    "name": "Museums and Institutions"
+  },
+  {
+    "id": 96,
+    "name": "Music"
+  },
+  {
+    "id": 97,
+    "name": "Nanotechnology"
+  },
+  {
+    "id": 98,
+    "name": "Newspapers"
+  },
+  {
+    "id": 99,
+    "name": "Nonprofit Organization Management"
+  },
+  {
+    "id": 100,
+    "name": "Oil & Energy"
+  },
+  {
+    "id": 101,
+    "name": "Online Media"
+  },
+  {
+    "id": 102,
+    "name": "Outsourcing/Offshoring"
+  },
+  {
+    "id": 103,
+    "name": "Package/Freight Delivery"
+  },
+  {
+    "id": 104,
+    "name": "Packaging and Containers"
+  },
+  {
+    "id": 105,
+    "name": "Paper & Forest Products"
+  },
+  {
+    "id": 106,
+    "name": "Performing Arts"
+  },
+  {
+    "id": 107,
+    "name": "Pharmaceuticals"
+  },
+  {
+    "id": 108,
+    "name": "Philanthropy"
+  },
+  {
+    "id": 109,
+    "name": "Photography"
+  },
+  {
+    "id": 110,
+    "name": "Plastics"
+  },
+  {
+    "id": 111,
+    "name": "Political Organization"
+  },
+  {
+    "id": 112,
+    "name": "Primary/Secondary Education"
+  },
+  {
+    "id": 113,
+    "name": "Printing"
+  },
+  {
+    "id": 114,
+    "name": "Professional Training & Coaching"
+  },
+  {
+    "id": 115,
+    "name": "Program Development"
+  },
+  {
+    "id": 116,
+    "name": "Public Policy"
+  },
+  {
+    "id": 117,
+    "name": "Public Relations and Communications"
+  },
+  {
+    "id": 118,
+    "name": "Public Safety"
+  },
+  {
+    "id": 119,
+    "name": "Publishing"
+  },
+  {
+    "id": 120,
+    "name": "Railroad Manufacture"
+  },
+  {
+    "id": 121,
+    "name": "Ranching"
+  },
+  {
+    "id": 122,
+    "name": "Real Estate"
+  },
+  {
+    "id": 123,
+    "name": "Recreational Facilities and Services"
+  },
+  {
+    "id": 124,
+    "name": "Religious Institutions"
+  },
+  {
+    "id": 125,
+    "name": "Renewables & Environment"
+  },
+  {
+    "id": 126,
+    "name": "Research"
+  },
+  {
+    "id": 127,
+    "name": "Restaurants"
+  },
+  {
+    "id": 128,
+    "name": "Retail"
+  },
+  {
+    "id": 129,
+    "name": "Security and Investigations"
+  },
+  {
+    "id": 130,
+    "name": "Semiconductors"
+  },
+  {
+    "id": 131,
+    "name": "Shipbuilding"
+  },
+  {
+    "id": 132,
+    "name": "Sporting Goods"
+  },
+  {
+    "id": 133,
+    "name": "Sports"
+  },
+  {
+    "id": 134,
+    "name": "Staffing and Recruiting"
+  },
+  {
+    "id": 135,
+    "name": "Supermarkets"
+  },
+  {
+    "id": 136,
+    "name": "Telecommunications"
+  },
+  {
+    "id": 137,
+    "name": "Textiles"
+  },
+  {
+    "id": 138,
+    "name": "Think Tanks"
+  },
+  {
+    "id": 139,
+    "name": "Tobacco"
+  },
+  {
+    "id": 140,
+    "name": "Translation and Localization"
+  },
+  {
+    "id": 141,
+    "name": "Transportation/Trucking/Railroad"
+  },
+  {
+    "id": 142,
+    "name": "Utilities"
+  },
+  {
+    "id": 143,
+    "name": "Venture Capital & Private Equity"
+  },
+  {
+    "id": 144,
+    "name": "Veterinary"
+  },
+  {
+    "id": 145,
+    "name": "Warehousing"
+  },
+  {
+    "id": 146,
+    "name": "Wholesale"
+  },
+  {
+    "id": 147,
+    "name": "Wine and Spirits"
+  },
+  {
+    "id": 148,
+    "name": "Wireless"
+  },
+  {
+    "id": 149,
+    "name": "Writing and Editing"
+  }
+]

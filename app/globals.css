@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* hide the scrollbar */
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Mui Input styles */
+
+.MuiTelInput {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #8c8c8c;
+  color: white;
+}
+
+.MuiTelInput::-webkit-scrollbar {
+  display: none;
+}
+
+.MuiTelInputMenu {
+  border-bottom: 2px solid #8c8c8c;
+}
+
+.MuiTelInput input {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: transparent;
+  outline: none;
+  transition: border-color 300ms ease-in-out;
+  font-size: 1.875rem;
+  color: #fff;
+}
+
+.MuiTelInput input::placeholder {
+  color: #4d4d4d;
+}
+
+.MuiTelInput input:focus {
+  border-color: #fff;
+}
+
+.MuiTelInput-root > p {
+  color: #fff;
+}
+
+.MuiTelInputMenuList-root {
+  background-color: #131313;
+  border-width: 2px;
+  border-radius: 10px;
+  color: #fff;
+  max-width: 450px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.MuiTelInputMenuList-root p {
+  color: #fff;
+  row-gap: 0.5rem;
+  display: none;
+}
+
+.MuiTelInputMenuList-root > li {
+  border: 2px solid rgb(55, 55, 55);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.MuiTelInputMenuList-root > li:hover {
+  background-color: #525252;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .MuiTelInput input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: transparent;
+    outline: none;
+    transition: border-color 300ms ease-in-out;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+}
+/* Blink animation for checkboxes */
+.blink-anime {
+  animation: 0.25s ease 0s 2 normal none running blink;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0.3;
+  }
+}

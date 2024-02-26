@@ -1,0 +1,96 @@
+[
+  {
+    "id": "264e1234b-dc77-446e-a8ba-16c767d32118",
+    "question": "Up-skilling requires time commitment",
+    "description": "The GrowthX experience is designed by keeping in mind the working hours founders & full-time operators typically work in.\n\n\nYou will spend\n- 6 hours/week for the first 5 weeks\n- 15 hours/week for the last 3 weeks",
+    "type": "welcome"
+  },
+  {
+    "id": "dd6sdfsdf3-0397-4432-8497-f1697sasdff19e69",
+    "question": "What's first name?",
+    "type": "text"
+  },
+  {
+    "id": "dd6sdfsdf3-0397-4432-8497-f1697asdf1dff19e69",
+    "question": "What's last name?",
+    "type": "text"
+  },
+  {
+    "id": "f3e3e2343e3-3e3e-3e3e-3e3e-3e3e3e3e3e3e",
+    "question": "What industry is your company in?",
+    "description": "We will personalize your learning experience accordingly",
+    "type": "dropdown",
+    "options": [
+      {
+        "id": "11111111-1111-1111-1111-11111123423111111",
+        "value": "one 435435"
+      },
+      {
+        "id": "22222222-2222-2222-2222-22222234232222222",
+        "value": "two 234234"
+      },
+      {
+        "id": "33333333-3333-3333-3333-333333234234333333",
+        "value": "three 234234"
+      }
+    ]
+  },
+  {
+    "id": "264e612374b-dc77-446e-a8ba-16c767d32119",
+    "question": "Your role in your company?",
+    "description": "We want to understand how you spend your time righ now.",
+    "type": "select",
+    "multiplechoices": 1,
+    "options": [
+      {
+        "id": "44412344444-4444-4444-4444-444444444444",
+        "value": "Founder or CXO"
+      },
+      {
+        "id": "55512355555-5555-5555-5555-555555555555",
+        "value": "Product team"
+      },
+      {
+        "id": "66666123666-6666-6666-6666-666666662346666",
+        "value": "Marketing team"
+      },
+      {
+        "id": "7777234237777-7777-7777-7777-777777777777",
+        "value": "VC"
+      }
+    ]
+  },
+  {
+    "id": "264e674b-dc77-43326e-a8123a-16c767d32119",
+    "question": "What is your professional goal for the next 12 months?",
+    "description": "We want to understand how you spend your time righ now",
+    "type": "select",
+    "multiplechoices": 2,
+    "options": [
+      {
+        "id": "121212-4444-4123444-4444-444444444444",
+        "value": "Structured approach to growth"
+      },
+      {
+        "id": "5555123212155-5213555-5555-5555-555555555555",
+        "value": "Build a growth team"
+      },
+      {
+        "id": "2132112321-6666-6666-6666-666666666666",
+        "value": "Connect with like-minded people"
+      }
+    ]
+  },
+  {
+    "id": "264e674b-dc77-446e-a8ba-16c767d3vbndfdsfg",
+    "question": "What is your email?",
+    "description": "We will use this email to communicate with you.",
+    "type": "email"
+  },
+  {
+    "id": "5212f64b-78e2-492a-98f2-03566f358786",
+    "question": "Your phone number?",
+    "description": "We won't call you unless it is absolutely required to process your application.",
+    "type": "phonenumber"
+  }
+]
